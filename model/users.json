@@ -1,0 +1,48 @@
+[
+  {
+    "username": "Tes2t",
+    "password": "$2b$10$69PTLzBxFSpeG5YDbMvpG.7pjpQQRNB57kQh9aqC59Fdzk38UZ/.u"
+  },
+  {
+    "username": "Tes2",
+    "password": "$2b$10$s0ckkxRi4.S4Rd/qs1SK9OG1hjnkEq0GCq3QhZhufOuCw2BBmOCWK",
+    "roles": {
+      "User": 5120,
+      "Editor": 2001
+    }
+  },
+  {
+    "username": "Auth",
+    "password": "$2b$10$IznINQtwq0VsTil.xwi6Hu23NtWxit.NkZiRxd8CTyvh.twO5d8ZG",
+    "roles": {
+      "User": 5120
+    }
+  },
+  {
+    "username": "Test",
+    "password": "$2b$10$TsSHPjASQwL6z0oubtucGe1XRH6tPDxSFimD9QVQ/4QDLeGvMr5km",
+    "roles": {
+      "User": 5120
+    },
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRlc3QiLCJpYXQiOjE3MzgxNTI2OTIsImV4cCI6MTczODIzOTA5Mn0.toOCxN4Vo80p7IPXDdr8l3YvBWyifuftU7Yh64JVqms"
+  },
+  {
+    "username": "zechy",
+    "password": "$2b$10$H6hAh5Bv/qoungZhmUiIkOSw9LgxWiP6RIJOeyXHnGBIC9PzLeg9K",
+    "roles": {
+      "User": 5120,
+      "Editor": 2001
+    },
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InplY2h5IiwiaWF0IjoxNzM4MTUyNzUwLCJleHAiOjE3MzgyMzkxNTB9.Uf3SFA6Qkai5AhNTEF1OsJuU1LYbA1sIV6mBIG-ZhD0"
+  },
+  {
+    "username": "eyob",
+    "password": "$2b$10$DhT87fcKsohSz4ec/wuUl.DmdsooUn5j3wFpVP1wghb0947tCJL6C",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImV5b2IiLCJpYXQiOjE3MzgxNTI4MDcsImV4cCI6MTczODIzOTIwN30.Ja7rL-Ma7JSZEXk1GouWJTEDnwGBhwUKR9wbdv7Q3w4",
+    "roles": {
+      "User": 5120,
+      "Editor": 2001,
+      "Admin": 5150
+    }
+  }
+]
